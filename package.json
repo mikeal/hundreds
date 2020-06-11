@@ -1,7 +1,7 @@
 {
   "name": "hundreds",
   "version": "0.0.0-dev",
-  "description": "Run tests and validate 100% coverage w/ nyc",
+  "description": "Run tests and validate 100% coverage w/ c8",
   "main": "index.js",
   "bin": {
     "hundreds": "./hundreds.sh"
