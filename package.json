@@ -10,6 +10,6 @@
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
   "license": "(Apache-2.0 AND MIT)",
   "dependencies": {
-    "nyc": "^15.0.1"
+    "c8": "^7.2.0"
   }
 }
